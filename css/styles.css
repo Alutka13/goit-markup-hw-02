@@ -12,7 +12,7 @@ body {
 
 /* Навігація*/
 
-.header-logo {
+.header-logo link {
 text-decoration: none;
 text-transform: uppercase;
 font-family: 'Raleway', sans-serif;
@@ -23,6 +23,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4D5AE5;
 }
+
 .logo-span {
 font-family: 'Raleway', sans-serif;
 color: #2E2F42;
@@ -56,7 +57,7 @@ color: #2E2F42;
  color: #404bbf;
 }
 
-.contact-item {
+.contact-item link {
 font-style: normal;
 text-decoration: none;
 font-weight: 400;
@@ -102,7 +103,7 @@ cursor: pointer;
 
 .hero-btn:hover,
 .hero-btn:focus {
-background-color: #404BBF;
+color: #404BBF;
 }
 
 /* Advantages */
