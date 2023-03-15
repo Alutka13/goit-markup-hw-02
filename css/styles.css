@@ -12,7 +12,7 @@ body {
 
 /* Навігація*/
 
-.header-logo link {
+.header-logo {
 text-decoration: none;
 text-transform: uppercase;
 font-family: 'Raleway', sans-serif;
@@ -57,7 +57,7 @@ color: #2E2F42;
  color: #404bbf;
 }
 
-.contact-item link {
+.contact-item {
 font-style: normal;
 text-decoration: none;
 font-weight: 400;
