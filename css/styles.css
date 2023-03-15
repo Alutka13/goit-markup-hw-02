@@ -10,7 +10,7 @@ body {
   text-decoration: none;
 }
 
-/* Навігація*/
+                            /* Navigation*/
 
 .header-logo {
 text-decoration: none;
@@ -69,7 +69,7 @@ color: #434455;
   color: #404bbf;
 }
 
-/* Hero */
+                            /* Hero */
 
 .section-hero {
     background: #2E2F42;
@@ -104,7 +104,7 @@ cursor: pointer;
     background: #404BBF;
 }
 
-/* Advantages */
+                        /* Advantages */
 
 .section-title {
 font-weight: 500;
@@ -120,7 +120,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-/* What are we doing */
+                    /* What are we doing */
 
 .what-title {
 font-weight: 700;
@@ -130,7 +130,7 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-/* Team */
+                        /* Team */
 
 .team-section {
 background: #F4F4FD;
@@ -161,13 +161,13 @@ color: #434455;
 background: #FFFFFF;
 }
 .team-professions {
-  background: #FFFFFF;  
+background: #FFFFFF;  
 }
 
-/* Footer */
+                    /* Footer */
 
 .footer {
-    background: #2E2F42;
+background: #2E2F42;
 }
 
 .footer-logo {
@@ -182,7 +182,7 @@ letter-spacing: 0.03em;
 color: #4D5AE5;
 }
 .span-logo {
-    color: #F4F4FD;
+color: #F4F4FD;
 }
 .footer-text {
 font-weight: 400;
