@@ -57,6 +57,10 @@ color: #2E2F42;
  color: #404bbf;
 }
 
+.header-contacts {
+font-style: normal;
+}
+
 .contact-item {
 font-style: normal;
 text-decoration: none;
