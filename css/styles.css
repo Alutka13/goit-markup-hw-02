@@ -67,7 +67,7 @@ color: var(--button-color);
 
 .contact-item:hover,
 .contact-item:focus {
- color: var(--button-color);
+ background-color: var(--button-color);
 }
 
 .header-contacts {
