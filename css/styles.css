@@ -67,7 +67,7 @@ color: var(--button-color);
 
 .contact-item:hover,
 .contact-item:focus {
- background-color: var(--button-color);
+color: var(--button-color);
 }
 
 .header-contacts {
@@ -120,7 +120,7 @@ color: #FFFFFF;
 
 .hero-btn:hover,
 .hero-btn:focus {
-color: var(--button-color);
+background-color: var(--button-color);
 }
 
 /* Advantages */
